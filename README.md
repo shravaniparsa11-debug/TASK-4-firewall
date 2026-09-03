@@ -65,3 +65,4 @@ The task provided practical experience with network port scanning and
 connection testing using Termux. Port 23 was tested locally and was found
 to be closed. The experiment also demonstrated the limitation of using
 Termux on Android for managing the device's actual firewall.
+
