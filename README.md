@@ -59,20 +59,6 @@ Therefore, the port 23 result demonstrates port availability/connection
 testing and should not be interpreted as proof of an actual UFW firewall
 block.
 
-## Screenshots
-
-### Nmap Version
-![Nmap Version](screenshots/nmap-version.png)
-
-### Localhost Scan
-![Localhost Scan](screenshots/localhost-scan.png)
-
-### Port 23 Scan
-![Port 23 Scan](screenshots/port23-scan.png)
-
-### Port 23 Test
-![Port 23 Test](screenshots/port23-test.png)
-
 ## Conclusion
 
 The task provided practical experience with network port scanning and
