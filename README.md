@@ -11,7 +11,7 @@ To understand and test basic firewall and network traffic filtering concepts.
 ## Environment
 Android phone using Termux.
 
-## Step 1: Nmap Installation
+## Nmap Installation
 
 Nmap was installed successfully in Termux.
 
@@ -19,7 +19,7 @@ Command:
 
     pkg install nmap
 
-## Step 2: Verify Nmap
+## Verify Nmap
 
 Command:
 
@@ -27,7 +27,7 @@ Command:
 
 Nmap version 7.99 was successfully verified.
 
-## Step 3: Localhost Scan
+## Localhost Scan
 
 Command:
 
@@ -36,7 +36,7 @@ Command:
 Result:
 The localhost host was up and the scanned common TCP ports were closed.
 
-## Step 4: Port 23 Test
+## Port 23 Test
 
 Command:
 
